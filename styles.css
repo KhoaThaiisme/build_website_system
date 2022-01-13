@@ -51,7 +51,7 @@ p{
     color: white;
     border-radius: 10px;
     width: 190px;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 .download {
@@ -92,16 +92,16 @@ nav img {
 
 .github{
     float: right;
-    width: 2%;
+    width: 1.5%;
     height: auto;
-    padding: 25px;
+    padding: 28px 10px;
 }
 
 .twitter {
     float: right;
-    width: 2%;
+    width: 1.5%;
     height: auto;
-    padding: 28px 1px;
+    padding: 30px 1px;
 }
 
 .start:hover {
@@ -116,4 +116,8 @@ nav img {
 #download_btn:hover {
     background-color: sandybrown;
     color:rgb(134, 62, 134)
+}
+
+#home{
+    font-weight: bold;
 }
