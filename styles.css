@@ -103,3 +103,17 @@ nav img {
     height: auto;
     padding: 28px 1px;
 }
+
+.start:hover {
+    background-color: rgb(134, 62, 134);
+}
+
+.download:hover {
+    background-color: gray;
+    color: white;
+}
+
+#download_btn:hover {
+    background-color: sandybrown;
+    color:rgb(134, 62, 134)
+}
